@@ -1,3 +1,3 @@
 # Countdown-Timer
 
-This is an app made using Javascript that displkays the countdown
+This is an app made using Javascript that displays the countdown
